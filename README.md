@@ -1,4 +1,4 @@
-#HowTo PrettySteam 
+#HowTo Pretty Steam 
 
 1. To use you will need Stylish
 	* [Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
@@ -43,3 +43,8 @@
 	<hr>
 	#All done!
 	Enjoy the better looking steam
+
+	<hr>
+	##Found an issue? Want to request something?
+	Message me on [steam](https://steamcommunity.com/id/shortcord) or do a pull-request
+	
