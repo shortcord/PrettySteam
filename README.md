@@ -49,7 +49,7 @@
 	Message me on [steam](https://steamcommunity.com/id/shortcord) or do a pull-request
 	
 	
-	##FAQ or something like that
+	##FAQ <sup> or something like that </sup>
 	> Why no Internet Explorer?
 	
 	[This](https://www.reddit.com/r/explainlikeimfive/comments/20rpzh/eli5_why_is_ie_so_hated_is_it_really_that_bad/cg65z7j) <sup>also Stylish isn't on IE</sup>
