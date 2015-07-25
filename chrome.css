@@ -1,0 +1,225 @@
+/*
+For use with Stylish (https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) 
+Or any plugin that can edit css styles for websites
+*/
+@font-face {
+  
+  font-family: 'nexa_lightregular';
+  src: url('https://www.shortcord.com/PrettySteam/fonts/nexa_light-webfont.eot');
+  src: url('https://www.shortcord.com/PrettySteam/fonts/nexa_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://www.shortcord.com/PrettySteam/fonts/nexa_light-webfont.woff2') format('woff2'),
+         url('https://www.shortcord.com/PrettySteam/fonts/nexa_light-webfont.woff') format('woff'),
+         url('https://www.shortcord.com/PrettySteam/fonts/nexa_light-webfont.ttf') format('truetype');
+  
+  font-weight: normal;
+  
+  font-style: normal;
+}
+
+@font-face {
+  
+  font-family: 'nexa_boldregular';
+  src: url('https://www.shortcord.com/PrettySteam/fonts/nexa_bold-webfont.eot');
+  src: url('https://www.shortcord.com/PrettySteam/fonts/nexa_bold-webfont.eot?#iefix') format('embedded-opentype'),
+             url('https://www.shortcord.com/PrettySteam/fonts/nexa_bold-webfont.woff2') format('woff2'),
+             url('https://www.shortcord.com/PrettySteam/fonts/nexa_bold-webfont.woff') format('woff'),
+             url('https://www.shortcord.com/PrettySteam/fonts/nexa_bold-webfont.ttf') format('truetype');
+  
+  font-weight: normal;
+  
+  font-style: normal;
+}
+
+body {
+    /* font-family: Segoe UI; */
+    font-family: "nexa_lightregular";
+}
+
+.showcase_notes {
+    font-size: 15px;
+}
+
+.profile_content {
+    font-size: 14px;
+}
+
+.newmodal_content {
+    background: rgba(33, 33, 33, 0.44);
+}
+
+.btn_profile_action > span {
+    background: rgba(230, 230, 230, 0.19);
+}
+
+.btn_profile_action:hover > span, .btn_profile_action.focus > span {
+    background: none;
+}
+
+.btn_profile_action {
+    background: none;
+}
+
+.profile_header_badge {
+    background-color: rgba(170, 170, 170, 0.14);
+}
+
+.supernav_container {
+    bottom: 15px;
+}
+
+.profile_customization {
+    background: none;
+}
+
+.item_desc_content {
+    background-color: transparent;
+    background-image: none;
+    background: rgba(42, 42, 42, 0.93);
+}
+
+.inventory_iteminfo .item_desc_content {
+    background-image: none ;
+}
+
+.item_showcase_item {
+    margin-left: 0px;
+}
+
+.profile_background_holder_content {
+    background-color: transparent ;
+}
+
+div.profile_page.has_profile_background {
+    background-attachment: fixed;
+}
+
+.profile_background_image_content {
+    background-image: none ;
+}
+
+#global_header {
+    height: 60px;
+}
+
+#global_header div.content {
+    height: 60px;
+}
+
+#inventory_applogo {
+    display: none;
+}
+
+#logo_holder a img {
+    margin-top: -20px;
+}
+
+#page_background {
+    margin-top: -40px;
+}
+
+#quicksearch {
+    margin-top: 25px;
+    padding-top: 2px;
+}
+
+#supernav li {
+    margin-top: -16px;
+}
+
+#welcome_message {
+    margin-top: 40px;
+    padding-top: 2px;
+}
+
+.header_installsteam_btn, .header_installsteam_btn_gray {
+    display: none;
+}
+
+.header_installsteam_btn_leftcap, .header_installsteam_btn_rightcap {
+    display: none;
+}
+
+a.header_installsteam_btn_content {
+    display: none;
+}
+
+a.menuitem {
+    padding-top: 20px;
+}
+
+div.badge_details_set_favorite {
+    margin-top: -90px;
+}
+
+div.inventory_links {
+    margin-left: 60%;
+    margin-top: -70px;
+    width: 40%;
+    z-index: 1;
+}
+
+div.playerAvatar {
+    background-color: #ff1cff;
+}
+
+div.profile_background_overlay_content {
+    background-color: rgb(0,0,0);
+}
+
+div.profile_badges_header_title {
+    padding-top: 40px;
+}
+
+div.profile_header_bg {
+    background-color: rgba(0,0,0,0.9);
+    background-image: none;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.profile_background_overlay_content {
+    top: 14px;
+}
+
+.profile_comment_area .pagebtn {
+    line-height: 22px;
+}
+
+div.profile_header_bg_texture {
+    background: none;
+    background-image: none;
+}
+
+div.profile_small_header_texture {
+    background: none;
+    z-index: 2;
+}
+
+div.profile_xp_block_right {
+    display: none;
+}
+
+div.save_actions_disabled {
+    width: 50%;
+}
+
+div.sidesection div {
+    margin-left: 60%;
+    margin-top: -50px;
+    width: 40%;
+}
+
+div.sort_options {
+    float: right;
+    width: 50%;
+}
+
+div.view_inventory_logo {
+    height: 0;
+    margin-top: -30px;
+}
+
+input.wishlist_rank {
+    background: none;
+}
+
