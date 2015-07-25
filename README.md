@@ -4,9 +4,7 @@
 	* [Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
 	* [Firefox](https://addons.mozilla.org/en-us/firefox/addon/stylish/)
 
-2. Grab the css file for your browser
-	* [Chrome](https://raw.githubusercontent.com/teh-random-name/PrettySteam/master/chrome.css)
-	* [Firefox](https://raw.githubusercontent.com/teh-random-name/PrettySteam/master/firefox.css)
+2. Grab the [current](https://github.com/teh-random-name/PrettySteam/releases/latest) release.
 	
 	<hr>
 	
