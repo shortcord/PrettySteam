@@ -164,6 +164,7 @@ div.playerAvatar {
 
 div.profile_background_overlay_content {
     background-color: rgb(0,0,0);
+    top: 0px; /*issue with chrome i guess*/
 }
 
 div.profile_badges_header_title {
