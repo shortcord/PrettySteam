@@ -3,6 +3,7 @@
 1. To use you will need Stylish
 	* [Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
 	* [Firefox](https://addons.mozilla.org/en-us/firefox/addon/stylish/)
+	* [Safari](https://extensions.apple.com/details/?id=com.sobolev.stylish-5555L95H45)
 
 2. Grab the [current](https://github.com/teh-random-name/PrettySteam/releases/latest) release.
 	
@@ -38,6 +39,16 @@
 	
 	Give the style a name then save.
 	
+	###For Safari
+	Click the `S` next to your Address Bar
+	
+	Click `Edit` and paste the contents of `chrome.css` in the code box
+
+	Then in the text box next to `Applies to` enter `steamcommunity.com`, make sure that the dropdown box is set to `Domain`
+	then save the style.
+
+	![Stylish Safari](https://puu.sh/jcVie/3acc16da76.png)
+
 	<hr>
 	#All done!
 	Enjoy the better looking steam
