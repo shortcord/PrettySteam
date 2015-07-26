@@ -5,7 +5,7 @@
 	* [Firefox](https://addons.mozilla.org/en-us/firefox/addon/stylish/)
 	* [Safari](https://extensions.apple.com/details/?id=com.sobolev.stylish-5555L95H45)
 
-2. Grab the [current](https://github.com/teh-random-name/PrettySteam/releases/latest) release.
+2. Grab the [current](https://github.com/teh-random-name/PrettySteam/releases/latest) release of Pretty Steam.
 	
 	<hr>
 	
