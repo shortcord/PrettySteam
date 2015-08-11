@@ -94,7 +94,7 @@ div.profile_page.has_profile_background {
 }
 
 .profile_background_image_content {
-    background-image: none ;
+    background-image: none !important;
 }
 
 #global_header {
